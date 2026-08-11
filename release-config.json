@@ -6,7 +6,7 @@
   "message": "",
   "releaseNotes": "",
   "android": {
-    "downloadUrl": ""
+    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha/Core-ARC-Android-v0.1.0-alpha-arm64.apk"
   },
   "windows": {
     "downloadUrl": ""
