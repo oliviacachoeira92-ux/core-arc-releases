@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "status": "active",
-  "latestVersion": "0.1.0-beta.1",
-  "minimumSupportedVersion": "0.1.0-beta.1",
+  "latestVersion": "0.1.0-alpha",
+  "minimumSupportedVersion": "0.1.0-alpha",
   "message": "",
   "releaseNotes": "",
   "android": {
     "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha/Core-ARC-Android-v0.1.0-alpha-arm64.apk"
   },
   "windows": {
-    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/tag/v0.1.0-alpha"
+    "downloadUrl": ""
   },
   "web": {
     "url": ""
