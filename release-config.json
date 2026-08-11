@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "status": "active",
-  "latestVersion": "0.1.0-alpha",
   "latestVersion": "0.1.0-beta.1",
+  "minimumSupportedVersion": "0.1.0-alpha",
   "message": "",
   "releaseNotes": "",
   "android": {
