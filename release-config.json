@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "status": "active",
   "latestVersion": "0.1.0-beta.1",
-  "minimumSupportedVersion": "0.1.0-alpha",
+  "minimumSupportedVersion": "0.1.0-beta.1",
   "message": "",
   "releaseNotes": "",
   "android": {
