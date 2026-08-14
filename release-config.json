@@ -9,7 +9,7 @@
     "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha.2/app-universal-release.apk"
   },
   "windows": {
-    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha.2/Core%20ARC_0.1.0-alpha.2_x64-setup.exe"
+    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha.2/Core-ARC-Windows-v0.1.0-alpha.2-x64-setup.exe"
   },
   "web": {
     "url": "https://core-arc.vercel.app"
