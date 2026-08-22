@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "status": "active",
-  "latestVersion": "0.1.0-alpha.2",
+  "latestVersion": "0.1.0-alpha.3",
   "minimumSupportedVersion": "0.1.0-alpha.1",
   "message": "Nova versão do Core ARC disponível.",
-  "releaseNotes": "Polimento visual, Central ARC, Momento ARC, Relatórios aprimorados e melhorias gerais.",
+  "releaseNotes": "Uma nova fase do Core ARC: Chama da Fênix, interface adaptativa, Central ARC refinada, músicas criadas especialmente para a experiência do Core ARC e melhorias de estabilidade.",
   "android": {
-    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha.2/app-universal-release.apk"
+    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha.3/app-arm64-release.apk"
   },
   "windows": {
-    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha.2/Core.ARC_0.1.0-alpha.2_x64-setup.exe"
+    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-alpha.3/Core.ARC_0.1.0-alpha.3_x64-setup.exe"
   },
   "web": {
     "url": "https://core-arc.vercel.app"
