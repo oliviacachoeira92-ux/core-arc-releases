@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "status": "active",
-  "latestVersion": "0.1.0-beta.4",
+  "latestVersion": "0.1.0-beta.5",
   "minimumSupportedVersion": "0.1.0-alpha.1",
   "message": "Nova atualização opcional do Core ARC disponível.",
-  "releaseNotes": "Beta.4: Analytics técnico opcional, com consentimento explícito e opção de ativar ou desativar o envio em Configurações.",
+  "releaseNotes": "Beta.5: novo ícone oficial do Core ARC no Android, Windows e Web/PWA; contador diário até a próxima meia-noite local, preservando o contador semanal. Recursos e consentimento da Beta.4 mantidos.",
   "android": {
-    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-beta.4/app-universal-release.apk"
+    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-beta.5/Core-ARC.apk"
   },
   "windows": {
-    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-beta.4/Core.ARC_0.1.0-beta.4_x64-setup.exe"
+    "downloadUrl": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/download/v0.1.0-beta.5/Core-ARC_0.1.0-beta.5_x64-setup.exe"
   },
   "web": {
     "url": "https://core-arc.vercel.app"
