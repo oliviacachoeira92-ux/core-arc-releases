@@ -1,0 +1,65 @@
+{
+  "coreArc": [
+    {
+      "id": "core-arc-beta-5",
+      "title": "Core ARC Beta.5 — novo ícone e contador diário",
+      "text": "A versão 0.1.0-beta.5 apresenta o novo ícone oficial do Core ARC no Android, Windows e Web/PWA e adiciona um contador diário até a próxima meia-noite, mantendo o contador semanal. Os recursos existentes e o consentimento opcional de estatísticas permanecem preservados.",
+      "date": "2026-10-12",
+      "url": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/tag/v0.1.0-beta.5"
+    },
+    {
+      "id": "core-arc-beta-4",
+      "title": "Core ARC Beta.4 — estatísticas opcionais com privacidade",
+      "text": "A versão 0.1.0-beta.4 introduz estatísticas técnicas mínimas de uso, com autorização explícita e controle para ativar ou desativar a qualquer momento nas Configurações. Dados de lives, Charme, metas e informações financeiras não são enviados nessa telemetria.",
+      "date": "2026-10-12",
+      "url": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/tag/v0.1.0-beta.4"
+    },
+    {
+      "id": "core-arc-beta-3",
+      "title": "Core ARC Beta.3 — Compartilhamento 2.0",
+      "text": "A versão 0.1.0-beta.3 traz Compartilhamento 2.0 para Charme e relatórios semanais e mensais: prévia e PNG em 9:16, 1:1 e 4:5, modos Resumo e Completo, controles de privacidade e identidade opcional com nome público, ID Alii e foto. Melhor legibilidade no celular e preferências integradas ao backup, preservando cálculos e dados.",
+      "date": "2026-10-09",
+      "url": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/tag/v0.1.0-beta.3"
+    },
+    {
+      "id": "core-arc-beta-2",
+      "title": "Core ARC Beta.2 — interface unificada",
+      "text": "A versão 0.1.0-beta.2 padronizou a interface do Core ARC com base no Conversor, refinando navegação, cabeçalhos, cartões, tipografia e responsividade, sem alterar regras de negócio.",
+      "date": "2026-10-08",
+      "url": "https://github.com/oliviacachoeira92-ux/core-arc-releases/releases/tag/v0.1.0-beta.2"
+    },
+    {
+      "id": "core-arc-beta-1",
+      "title": "Core ARC entra em fase Beta",
+      "text": "A versão 0.1.0-beta.1 marca uma nova etapa do Core ARC, com foco em estabilidade, correção de bugs, compatibilidade e refinamentos da experiência.",
+      "date": "2026-09-30",
+      "url": ""
+    },
+    {
+      "id": "central-arc-welcome",
+      "title": "Bem-vinda à Central ARC",
+      "text": "A Central ARC reúne novidades, avisos, funcionalidades e correções do Core ARC.",
+      "date": "2026-08-13",
+      "url": ""
+    }
+  ],
+  "arcMoment": {
+    "enabled": true,
+    "title": "Não se esqueça de você",
+    "text": "Metas, horas e números podem esperar. Sua saúde não. Se você perceber que não está bem, procure apoio de alguém de confiança e ajuda profissional quando precisar.",
+    "musicTitle": "Moments — Fenix Arcane",
+    "musicUrl": "https://open.spotify.com/album/0g6QSISr6fqrGsclHcbHtu?si=mtISNlN_RqmGLlgDeGuACQ&utm_source=copy-link&sci=spotify%3Acard-config%3A7PjmYX0b8HqcHWcpeqnlLZ",
+    "alternateMusicLabel": "SoundCloud",
+    "alternateMusicUrl": "https://on.soundcloud.com/JXFPsHwyX3Ya1srIRQ",
+    "sourceLabel": "",
+    "sourceUrl": ""
+  },
+  "arcHighlight": {
+    "enabled": false,
+    "type": "",
+    "title": "",
+    "text": "",
+    "imageUrl": "",
+    "url": ""
+  }
+}
