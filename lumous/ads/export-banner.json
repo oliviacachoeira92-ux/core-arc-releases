@@ -1,10 +1,20 @@
 {
   "enabled": true,
   "sponsor": "Core ARC",
-  "headline": "Core ARC",
-  "description": "Organize suas lives, metas e progresso.",
+  "headline": "CORE ARC",
+  "description": "Sua central de produtividade · Lives, metas e progresso em um só lugar.",
   "url": "https://core-arc.vercel.app/",
   "imageUrl": null,
   "placement": "export",
-  "version": 1
+  "version": 2,
+  "eyebrow": "Publicidade",
+  "cta": "Conhecer o app",
+  "theme": {
+    "background": "#100A22",
+    "foreground": "#FFFFFF",
+    "accent": "#CA8BFF",
+    "border": "#8342CB",
+    "glow": "#32105E",
+    "muted": "#BCA9D4"
+  }
 }
